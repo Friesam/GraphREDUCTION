@@ -24,5 +24,5 @@ python CNFconverter.py -i n p
 
 =======
 # GraphREDUCTION
-Generator and reduction for a monochromatic tria
+Generator and reduction for a monochromatic triangle
 >>>>>>> fb85fb9c3c2684b992b1d74f03849b5cbb62c5c0
